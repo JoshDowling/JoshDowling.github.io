@@ -1,0 +1,20 @@
+
+html{background-color: grey; font-family: Tahoma}
+
+body {background-color: #FFFFFF; width: 90%;  margin-left: auto;  margin-right: auto}
+
+.mainContent {padding: 0px 0px 0px 0px}
+.navigation {background-color: #407abc;
+	color: #FFFFFF;padding: 0px 0px 0px 0px;
+	width: 100%;display: table}
+
+.navigation ol {padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;
+}
+.mainContent h1 {padding: 0px 15px 0px 10px}
+.mainContent p {padding: 0px 50px 0px 50px}
+.navigation li {padding: 5px 5px 5px 5px;display: table-cell;text-align: center;vertical-align: middle;float: left; width: 30%}
+
+.navigation ol {font-size: 30px}
+
+.navigation a:link {color: #ffffff}
+.navigation a:visited {color: #5c2987}
